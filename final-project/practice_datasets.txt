@@ -3,7 +3,7 @@ Tabular data
 https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
 https://www.kaggle.com/datasets/mansoordaku/ckdisease
 https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
-https://www.kaggle.com/datasets/mathchi/diabetes-data-set
+https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 https://www.kaggle.com/datasets/khan1803115/hypertension-risk-model-main
 
 
